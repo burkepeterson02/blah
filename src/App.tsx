@@ -18,6 +18,7 @@ function App() {
         >
           Learn React Burke
         </a>
+        <p>Hello</p>
       </header>
     </div>
   );
